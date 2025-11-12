@@ -1,5 +1,5 @@
 -- Team Name: SQL Nerds
--- Members: Ivan Lerma, Logan Ferris, Gage Johnson, Nick Sanchez, Abhinav Gupta, Sarthak Dudhani
+-- Members: Ivan Lerma, Logan Ferris, Gage Johnson, Nick Sanchez, Abhinav Raj Gupta, Sarthak Dudhani
 
 -- ================================================================================
 -- SECTION 1: SESSION SETUP
